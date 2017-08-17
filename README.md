@@ -1,4 +1,4 @@
-##Learning Data Visualization with D3.js, second edition
+## Learning Data Visualization with D3.js, second edition
 
 This repo will contain examples of the book mentioned in the title whilst I am working through the chapers with 
 the purpose of mastery of D3. 
